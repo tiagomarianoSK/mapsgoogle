@@ -30,6 +30,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Flutter](https://flutter.dev/?gclid=CjwKCAiAm-2BBhANEiwAe7eyFFt_Zrh3hpukNQo9OE7hA3-F64SQgV1c8FWPYmVuQH1A7NYJon9tVxoCQx8QAvD_BwE&gclsrc=aw.ds)
 - [Dart](https://dart.dev/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 START NO PROJETO
+
+Faça os *imports* das bibliotecas dentro do arquivo ```pubspec.yaml``` , faça os *import* com o comando  ```pub get``` , após feito a importação das dependência execute com ```flutter run``` ou de um *start* diretamente pela **IDE do Android Studio**.
