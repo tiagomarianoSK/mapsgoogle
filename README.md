@@ -1,11 +1,11 @@
 ![MAPS GOOGLE CALCULATION](https://user-images.githubusercontent.com/54405709/109416961-3a9c9280-79a0-11eb-8d65-9d00d81384dc.png)
 
 
-# MAPS GOOGLE CALCULATION
+# 🌎 MAPS GOOGLE CALCULATION
 
 #### O Google Maps Calculation é um aplicativo desenvolvido em [Flutter](https://flutter.dev/?gclid=CjwKCAiAm-2BBhANEiwAe7eyFFt_Zrh3hpukNQo9OE7hA3-F64SQgV1c8FWPYmVuQH1A7NYJon9tVxoCQx8QAvD_BwE&gclsrc=aw.ds), para fazer cálculos de distâncias de áreas, de um ponto X para um ponto Y.
 
-### Features
+### ✅ Features
 
 - [x] Captura dados
 - [x] Calcula distância
@@ -13,7 +13,7 @@
 - [x] Risca o mapa com polyline
 
 
-## TELAS DO PROJETO
+## 📱 TELAS DO PROJETO
 
 Confira as capturas de telas do projeto.
 
