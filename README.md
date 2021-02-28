@@ -19,10 +19,12 @@ Confira as capturas de telas do projeto.
 
 <img src="https://user-images.githubusercontent.com/54405709/109418144-8b62ba00-79a5-11eb-960c-e4e35cdf42cc.jpeg" alt="drawing" width="250"/>   <img src="https://user-images.githubusercontent.com/54405709/109418141-8998f680-79a5-11eb-9a52-e55c999e6f63.jpeg" alt="drawing" width="250"/>   <img src="https://user-images.githubusercontent.com/54405709/109418142-8aca2380-79a5-11eb-86f6-1e7b44180079.jpeg" alt="drawing" width="250"/>
 
-A few resources to get you started if this is your first Flutter project:
+## LIBRARIES & PACKAGES
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Google Maps for Flutter](https://pub.dev/packages/google_maps_flutter)
+- [Geolocator](https://pub.dev/packages/geolocator)
+- [Geocoding](https://pub.dev/packages/geocoding)
+- [Flutter Polyline Points](https://pub.dev/packages/flutter_polyline_points)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
