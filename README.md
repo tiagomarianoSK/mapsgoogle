@@ -21,11 +21,14 @@ Confira as capturas de telas do projeto.
 
 ## 🛠 LIBRARIES & TECNOLOGIAS USADAS 
 
+As seguintes ferramentas foram usadas na construção do projeto:
+
 - [Google Maps for Flutter](https://pub.dev/packages/google_maps_flutter)
 - [Geolocator](https://pub.dev/packages/geolocator)
 - [Geocoding](https://pub.dev/packages/geocoding)
 - [Flutter Polyline Points](https://pub.dev/packages/flutter_polyline_points)
 - [Flutter](https://flutter.dev/?gclid=CjwKCAiAm-2BBhANEiwAe7eyFFt_Zrh3hpukNQo9OE7hA3-F64SQgV1c8FWPYmVuQH1A7NYJon9tVxoCQx8QAvD_BwE&gclsrc=aw.ds)
+- [Dart](https://dart.dev/)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
