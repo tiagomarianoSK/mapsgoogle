@@ -17,7 +17,7 @@
 
 Confira as capturas de telas do projeto.
 
-<img src="https://user-images.githubusercontent.com/54405709/109418144-8b62ba00-79a5-11eb-960c-e4e35cdf42cc.jpeg" alt="drawing" width="300"/>   <img src="https://user-images.githubusercontent.com/54405709/109418141-8998f680-79a5-11eb-9a52-e55c999e6f63.jpeg" alt="drawing" width="300"/>   <img src="https://user-images.githubusercontent.com/54405709/109418142-8aca2380-79a5-11eb-86f6-1e7b44180079.jpeg" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/54405709/109418144-8b62ba00-79a5-11eb-960c-e4e35cdf42cc.jpeg" alt="drawing" width="250"/>   <img src="https://user-images.githubusercontent.com/54405709/109418141-8998f680-79a5-11eb-9a52-e55c999e6f63.jpeg" alt="drawing" width="250"/>   <img src="https://user-images.githubusercontent.com/54405709/109418142-8aca2380-79a5-11eb-86f6-1e7b44180079.jpeg" alt="drawing" width="250"/>
 
 A few resources to get you started if this is your first Flutter project:
 
