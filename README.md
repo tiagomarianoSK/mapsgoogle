@@ -5,9 +5,9 @@
 
 #### O Google Maps Calculation é um aplicativo desenvolvido em Flutter, para fazer cálculos de distâncias de áreas, de um ponto X para um ponto Y.
 
-## Getting Started
+## IMAGENS DO PROJETO
 
-This project is a starting point for a Flutter application.
+Confira as telas do projeto.
 
 A few resources to get you started if this is your first Flutter project:
 
