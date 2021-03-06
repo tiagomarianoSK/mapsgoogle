@@ -32,4 +32,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 START NO PROJETO
 
-Faça os *imports* das bibliotecas dentro do arquivo ```pubspec.yaml``` , faça os *import* com o comando  ```pub get``` , após feito a importação das dependência execute com ```flutter run``` ou de um *start* diretamente pela **IDE do Android Studio**.
+Faça os *imports* das bibliotecas dentro do arquivo ```pubspec.yaml``` , execute com o comando  ```pub get``` , após feito a importação das dependência execute com ```flutter run``` ou de um *start* diretamente pela **IDE do Android Studio**.
